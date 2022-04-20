@@ -50,7 +50,6 @@ void decimalConversions()
     printf("Binary: %s\n", convToBinary(dec));
     printf("Hexadecimal: %s\n", convDecToHex(dec));
     printf("Octal: %d\n", convToOct_dec(dec));
-    printf("%x", 00100);
 }
 
 void binaryToHexadecimal()
